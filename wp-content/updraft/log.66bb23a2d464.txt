@@ -1,0 +1,245 @@
+0000.000 (0) Opened log file at time: Mon, 13 Jun 2022 15:21:04 +0000 on http://localhost/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 8.1.6 (apache2handler, Windows NT OUWESH 10.0 build 22000 (Windows 11) AMD64) MySQL: 10.4.24-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 37.8M | 40M) multisite: N openssl: OpenSSL 1.1.1n  15 Mar 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 273200.7 MB
+0000.006 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.009 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.015 (0) Set semaphore last lock (fd) time to 2022-06-13 15:21:04
+0000.016 (0) Semaphore lock (fd) complete
+0000.020 (0) Backup run: resumption=0, nonce=66bb23a2d464, file_nonce=66bb23a2d464 begun at=1655133664 (0s ago), job type=backup
+0000.022 (0) Scheduling a resumption (1) after 300 seconds (1655133964) in case this run gets aborted
+0000.033 (0) Checking if we have a zip executable available
+0000.035 (0) Creation of backups of directories: beginning
+0000.040 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.729 (0) Total entities for the zip file: 446 directories, 2430 files (0 skipped as non-modified), 36.6 MB
+0000.773 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.814 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.856 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.897 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.935 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.972 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.010 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.048 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.085 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.123 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.126 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (24.8 MB, 2430 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0002.752 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1100 files added (on-disk size: 7679.1 KB)
+0002.790 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1200 files added (on-disk size: 7679.1 KB)
+0002.828 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1300 files added (on-disk size: 7679.1 KB)
+0002.867 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1400 files added (on-disk size: 7679.1 KB)
+0002.907 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1500 files added (on-disk size: 7679.1 KB)
+0002.946 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1600 files added (on-disk size: 7679.1 KB)
+0002.985 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1700 files added (on-disk size: 7679.1 KB)
+0003.025 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1800 files added (on-disk size: 7679.1 KB)
+0003.065 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 1900 files added (on-disk size: 7679.1 KB)
+0003.105 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 2000 files added (on-disk size: 7679.1 KB)
+0003.107 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.1 MB, 2430 files batched, 1001 (2002) added so far); re-opening (prior size: 7679.1 KB)
+0003.834 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 2100 files added (on-disk size: 9685.6 KB)
+0003.872 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 2200 files added (on-disk size: 9685.6 KB)
+0003.909 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 2300 files added (on-disk size: 9685.6 KB)
+0003.946 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.tmp: 2400 files added (on-disk size: 9685.6 KB)
+0004.303 (0) Creating zip file manifest (backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.list-temp.tmp)
+0004.312 (0) Successfully created zip file manifest (size: 203041)
+0004.419 (0) Created plugins zip (0) - 12492.5 KB in 4.4 s (2854.8 KB/s) (sha1: 476bc83bbb33851aed3c4805c52b68e1a36edebb, sha256: b29ce2fb4c2a73d60fe7e76787629c698da159805004bed7817f6642f80d6420)
+0004.422 (0) Beginning creation of dump of themes (split every: 400 MB)
+0004.624 (0) Total entities for the zip file: 157 directories, 680 files (0 skipped as non-modified), 21.5 MB
+0004.664 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0004.700 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0004.747 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0004.784 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0004.820 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0004.857 (0) Zip: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0006.074 (0) Creating zip file manifest (backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip.list-temp.tmp)
+0006.078 (0) Successfully created zip file manifest (size: 47429)
+0006.209 (0) Created themes zip (0) - 14329.4 KB in 1.8 s (8036.8 KB/s) (sha1: 005ae3f21f595bc93ef1f3d1de30bb5bf197eefb, sha256: d535ed3deab2deec7f746f9e9a85c5f7a90b4c1e57339c1cb7e56f140edc6386)
+0006.215 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0006.219 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0006.220 (0) finding files: 2022: adding to list (1)
+0006.221 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0006.228 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 2 MB
+0006.244 (0) Creating zip file manifest (backup_2022-06-13-1521_IE2023_66bb23a2d464-uploads.zip.list-temp.tmp)
+0006.246 (0) Successfully created zip file manifest (size: 80)
+0006.269 (0) Created uploads zip (0) - 2051.7 KB in 0 s (45366.3 KB/s) (sha1: 35a538810ce551cecba3dc39498af2a102feee49, sha256: 7a875a249af459c30f123e455ada5475587126b0c8ed99e97687c406704acf07)
+0006.275 (0) Beginning backup of other directories found in the content directory (index: 0)
+0006.277 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0006.278 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content
+0006.280 (0) finding files: backups-dup-lite: skipping: excluded by options (glob)
+0006.281 (0) finding files: index.php: adding to list (1)
+0006.282 (0) finding files: mu-plugins: adding to list (2)
+0006.283 (0) finding files: plugins: skipping: this is the plugins directory
+0006.284 (0) finding files: themes: skipping: this is the themes directory
+0006.285 (0) finding files: updraft: skipping: this is the updraft directory
+0006.286 (0) finding files: upgrade: skipping: excluded by options
+0006.287 (0) finding files: uploads: skipping: this is the uploads directory
+0006.292 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0 MB
+0006.305 (0) Creating zip file manifest (backup_2022-06-13-1521_IE2023_66bb23a2d464-others.zip.list-temp.tmp)
+0006.307 (0) Successfully created zip file manifest (size: 76)
+0006.313 (0) Created others zip (0) - 0.8 KB in 0 s (35.9 KB/s) (sha1: b0b5312026ac819ab80e865debb5f6f63b290080, sha256: a4062f0bad1e0cfb06713cf959dbb0c00237363d0feece9457a713f3c23a0af7)
+0006.319 (0) Saving backup status to database (elements: 8)
+0006.321 (0) Beginning creation of database dump (WordPress DB)
+0006.322 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0006.352 (0) Table wp_options: Total expected rows (via COUNT): 246
+0006.353 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.398 (0) Table wp_options: Rows added in this batch (next record: 324): 239 (uncompressed bytes in this segment=1195097) in 0.07 seconds
+0006.405 (0) Table wp_options: finishing file(s) (2, 282 KB)
+0006.412 (0) Table wp_users: Total expected rows (via COUNT): 1
+0006.413 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.416 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1397) in 0.01 seconds
+0006.422 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0006.429 (0) Table wp_usermeta: Total expected rows (via COUNT): 19
+0006.430 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.432 (0) Table wp_usermeta: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=2019) in 0.01 seconds
+0006.439 (0) Table wp_usermeta: finishing file(s) (2, 1 KB)
+0006.446 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0006.448 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.01 seconds
+0006.454 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0006.460 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0006.461 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.464 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2133) in 0.01 seconds
+0006.469 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0006.475 (0) Table wp_links: Total expected rows (via COUNT): 0
+0006.478 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1306) in 0.01 seconds
+0006.483 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0006.489 (0) Table wp_postmeta: Total expected rows (via COUNT): 30
+0006.490 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.493 (0) Table wp_postmeta: Rows added in this batch (next record: 36): 30 (uncompressed bytes in this segment=2878) in 0.01 seconds
+0006.499 (0) Table wp_postmeta: finishing file(s) (2, 1.1 KB)
+0006.506 (0) Table wp_posts: Total expected rows (via COUNT): 20
+0006.507 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.511 (0) Table wp_posts: Rows added in this batch (next record: 22): 20 (uncompressed bytes in this segment=27286) in 0.01 seconds
+0006.517 (0) Table wp_posts: finishing file(s) (2, 5.2 KB)
+0006.522 (0) Table wp_term_relationships: Total expected rows (approximate): 2
+0006.525 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 2 (uncompressed bytes in this segment=708) in 0.00 seconds
+0006.531 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0006.537 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 2
+0006.538 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.540 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=951) in 0.01 seconds
+0006.548 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0006.555 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0006.557 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.01 seconds
+0006.564 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0006.570 (0) Table wp_terms: Total expected rows (via COUNT): 2
+0006.571 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.573 (0) Table wp_terms: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=781) in 0.01 seconds
+0006.579 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0006.586 (0) Table wp_duplicator_packages: Total expected rows (via COUNT): 1
+0006.587 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0006.588 (0) Table wp_duplicator_packages: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=6295) in 0.01 seconds
+0006.597 (0) Table wp_duplicator_packages: finishing file(s) (2, 2.1 KB)
+0006.598 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\wordpress/wp-content/updraft/backup_2022-06-13-1521_IE2023_66bb23a2d464-db.gz (line 1884, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\backup.php)
+0006.600 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_options.table.tmpr325.gz (1/13/fopen): adding to final database dump
+0006.607 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_options.table.gz (2/13/fopen): adding to final database dump
+0006.608 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_users.table.tmpr2.gz (3/13/fopen): adding to final database dump
+0006.610 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_users.table.gz (4/13/fopen): adding to final database dump
+0006.611 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_usermeta.table.tmpr20.gz (5/13/fopen): adding to final database dump
+0006.612 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_usermeta.table.gz (6/13/fopen): adding to final database dump
+0006.613 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_commentmeta.table.tmpr0.gz (7/13/fopen): adding to final database dump
+0006.614 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_commentmeta.table.gz (8/13/fopen): adding to final database dump
+0006.614 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_comments.table.tmpr2.gz (9/13/fopen): adding to final database dump
+0006.615 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_comments.table.gz (10/13/fopen): adding to final database dump
+0006.616 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_links.table.tmpr0.gz (11/13/fopen): adding to final database dump
+0006.617 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_links.table.gz (12/13/fopen): adding to final database dump
+0006.618 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_postmeta.table.tmpr37.gz (13/13/fopen): adding to final database dump
+0006.619 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_postmeta.table.gz (14/13/fopen): adding to final database dump
+0006.621 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_posts.table.tmpr23.gz (15/13/fopen): adding to final database dump
+0006.622 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_posts.table.gz (16/13/fopen): adding to final database dump
+0006.623 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_term_relationships.table.tmpr100001.gz (17/13/fopen): adding to final database dump
+0006.623 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_term_relationships.table.gz (18/13/fopen): adding to final database dump
+0006.624 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_term_taxonomy.table.tmpr3.gz (19/13/fopen): adding to final database dump
+0006.625 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_term_taxonomy.table.gz (20/13/fopen): adding to final database dump
+0006.626 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_termmeta.table.tmpr0.gz (21/13/fopen): adding to final database dump
+0006.627 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_termmeta.table.gz (22/13/fopen): adding to final database dump
+0006.628 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_terms.table.tmpr3.gz (23/13/fopen): adding to final database dump
+0006.629 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_terms.table.gz (24/13/fopen): adding to final database dump
+0006.630 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_duplicator_packages.table.tmpr2.gz (25/13/fopen): adding to final database dump
+0006.631 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db-table-wp_duplicator_packages.table.gz (26/13/fopen): adding to final database dump
+0006.645 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db.gz: finished writing out complete database file (295.7 KB)
+0006.655 (0) Total database tables backed up: 13 (backup_2022-06-13-1521_IE2023_66bb23a2d464-db.gz, size: 302860, sha1: 4a3271ca2a2e982d5e0a4f9f52d662e8274169e7, sha256: 17108e1f23898e2b2a313ccc4daad40312bf713bb47971af2d97ea91daeec7b0)
+0006.659 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 2802, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\backup.php)
+0006.661 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0006.663 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0006.663 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0006.664 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-others.zip: others: This file has not yet been successfully uploaded: will queue
+0006.665 (0) backup_2022-06-13-1521_IE2023_66bb23a2d464-db.gz: db: This file has not yet been successfully uploaded: will queue
+0006.666 (0) Saving backup history. Total backup size: 28.5 MB
+0006.668 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0006.670 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0006.672 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-329c9125074255cb534667246e9d4764)
+0006.673 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0006.681 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0007.357 (0) Dropbox: quota usage: used=0 MB, total=2048 MB, available=2048 MB
+0007.359 (0) Dropbox: Attempt to upload: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip to: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip
+0010.579 (0) PHP event: code E_DEPRECATED: Implicit conversion from float 1860702.3688420544 to int loses precision (line 65, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0010.583 (0) Dropbox chunked upload: 8.2 % uploaded (pid_upload_session:ABIFCCGHS347_LlHFA45jJ1xm2cFkg7V06R440pBLL7qBGvJ, 1048576, 1536 KB)
+0014.524 (0) PHP event: code E_DEPRECATED: Implicit conversion from float 3126745.6743373736 to int loses precision (line 65, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0014.529 (0) Dropbox chunked upload: 20.5 % uploaded (pid_upload_session:ABIFCCGHS347_LlHFA45jJ1xm2cFkg7V06R440pBLL7qBGvJ, 2621440, 2560 KB)
+0019.500 (0) PHP event: code E_DEPRECATED: Implicit conversion from float 4741693.475116399 to int loses precision (line 65, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0019.503 (0) Dropbox chunked upload: 41 % uploaded (pid_upload_session:ABIFCCGHS347_LlHFA45jJ1xm2cFkg7V06R440pBLL7qBGvJ, 5242880, 4608 KB)
+0026.732 (0) PHP event: code E_DEPRECATED: Implicit conversion from float 5872100.267616115 to int loses precision (line 65, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0026.736 (0) Dropbox chunked upload: 77.9 % uploaded (pid_upload_session:ABIFCCGHS347_LlHFA45jJ1xm2cFkg7V06R440pBLL7qBGvJ, 9961472, 5632 KB)
+0030.736 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIFCCGHS347_LlHFA45jJ1xm2cFkg7V06R440pBLL7qBGvJ, 12792344, 5632 KB)
+0032.720 (0) Recording as successfully uploaded: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip
+0032.723 (0) Deleting local file: backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip: OK
+0032.725 (0) Deleting zip manifest (backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip.list.tmp)
+0032.727 (0) Dropbox: File upload success (backup_2022-06-13-1521_IE2023_66bb23a2d464-plugins.zip): 12492 KB in 25s (492 KB/s)
+0033.381 (0) Dropbox: quota usage: used=12.2 MB, total=2048 MB, available=2035.8 MB
+0033.382 (0) Dropbox: Attempt to upload: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip to: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip
+0040.902 (0) PHP event: code E_DEPRECATED: Implicit conversion from float 6902975.9841164835 to int loses precision (line 65, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0040.906 (0) Dropbox chunked upload: 39.3 % uploaded (pid_upload_session:ABIFCLOdLvJsxZkZ9FtfIK1Q4hXY46T9KBY3vDZTvk25zKKs, 5767168, 6656 KB)
+0048.492 (0) PHP event: code E_DEPRECATED: Implicit conversion from float 8082442.374440597 to int loses precision (line 65, C:\xampp\htdocs\wordpress\wp-content\plugins\updraftplus\methods\dropbox.php)
+0048.495 (0) Dropbox chunked upload: 85.8 % uploaded (pid_upload_session:ABIFCLOdLvJsxZkZ9FtfIK1Q4hXY46T9KBY3vDZTvk25zKKs, 12582912, 7680 KB)
+0051.834 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIFCLOdLvJsxZkZ9FtfIK1Q4hXY46T9KBY3vDZTvk25zKKs, 14673272, 7680 KB)
+0053.816 (0) Recording as successfully uploaded: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip
+0053.822 (0) Deleting local file: backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip: OK
+0053.824 (0) Deleting zip manifest (backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip.list.tmp)
+0053.825 (0) Dropbox: File upload success (backup_2022-06-13-1521_IE2023_66bb23a2d464-themes.zip): 14329 KB in 20s (700 KB/s)
+0054.493 (0) Dropbox: quota usage: used=26.2 MB, total=2048 MB, available=2021.8 MB
+0054.495 (0) Dropbox: Attempt to upload: backup_2022-06-13-1521_IE2023_66bb23a2d464-uploads.zip to: backup_2022-06-13-1521_IE2023_66bb23a2d464-uploads.zip
+0057.709 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIFCMIsL3c_Qd9XoUUwS0kIHtrrOe3uGWIbRSKDMItrWQn5, 2100973, 7680 KB)
+0060.955 (0) Recording as successfully uploaded: backup_2022-06-13-1521_IE2023_66bb23a2d464-uploads.zip
+0060.959 (0) Deleting local file: backup_2022-06-13-1521_IE2023_66bb23a2d464-uploads.zip: OK
+0060.960 (0) Deleting zip manifest (backup_2022-06-13-1521_IE2023_66bb23a2d464-uploads.zip.list.tmp)
+0060.961 (0) Dropbox: File upload success (backup_2022-06-13-1521_IE2023_66bb23a2d464-uploads.zip): 2051 KB in 6s (317 KB/s)
+0061.830 (0) Dropbox: quota usage: used=28.2 MB, total=2048 MB, available=2019.8 MB
+0061.832 (0) Dropbox: Attempt to upload: backup_2022-06-13-1521_IE2023_66bb23a2d464-others.zip to: backup_2022-06-13-1521_IE2023_66bb23a2d464-others.zip
+0064.087 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIFCMXEawHvNaDPocUi1H4T6wNmRZ8cix2DGp7x3Wh4vzCJ, 838, 7680 KB)
+0066.237 (0) Recording as successfully uploaded: backup_2022-06-13-1521_IE2023_66bb23a2d464-others.zip
+0066.240 (0) Deleting local file: backup_2022-06-13-1521_IE2023_66bb23a2d464-others.zip: OK
+0066.242 (0) Deleting zip manifest (backup_2022-06-13-1521_IE2023_66bb23a2d464-others.zip.list.tmp)
+0066.243 (0) Dropbox: File upload success (backup_2022-06-13-1521_IE2023_66bb23a2d464-others.zip): 0 KB in 4s (0 KB/s)
+0066.934 (0) Dropbox: quota usage: used=28.2 MB, total=2048 MB, available=2019.8 MB
+0066.935 (0) Dropbox: Attempt to upload: backup_2022-06-13-1521_IE2023_66bb23a2d464-db.gz to: backup_2022-06-13-1521_IE2023_66bb23a2d464-db.gz
+0069.061 (0) Dropbox chunked upload: 100 % uploaded (pid_upload_session:ABIFCP6yQhvtuXXO_cJEBZgjyhos_6UoVanfxZxjr672AkW9, 302860, 7680 KB)
+0071.325 (0) Recording as successfully uploaded: backup_2022-06-13-1521_IE2023_66bb23a2d464-db.gz
+0071.328 (0) Deleting local file: backup_2022-06-13-1521_IE2023_66bb23a2d464-db.gz: OK
+0071.329 (0) Dropbox: File upload success (backup_2022-06-13-1521_IE2023_66bb23a2d464-db.gz): 295 KB in 4s (67 KB/s)
+0071.335 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0071.336 (0) Number of backup sets in history: 1; groups (db): 1
+0071.337 (0) Examining (for databases) backup set with group_id=0, nonce=66bb23a2d464, datestamp=1655133664 (Jun 13 2022 15:21:04)
+0071.338 (0) This backup set is the backup set just made, so will not be deleted.
+0071.338 (0) Number of backup sets in history: 1; groups (files): 1
+0071.339 (0) Examining (for files) backup set with nonce=66bb23a2d464, datestamp=1655133664 (Jun 13 2022 15:21:04)
+0071.339 (0) This backup set is the backup set just made, so will not be deleted.
+0071.340 (0) This backup set is the backup set just made, so will not be deleted.
+0071.340 (0) This backup set is the backup set just made, so will not be deleted.
+0071.340 (0) This backup set is the backup set just made, so will not be deleted.
+0071.340 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0071.341 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0071.344 (0) Resume backup (66bb23a2d464, 0): finish run
+0071.346 (0) Decremented the semaphore (fd) by 1
+0071.348 (0) Semaphore (fd) unlocked
+0071.349 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0071.354 (0) Fetching RSS news feed
+0071.678 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 63, C:\xampp\htdocs\wordpress\wp-includes\Requests\Cookie\Jar.php)
+0071.679 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 73, C:\xampp\htdocs\wordpress\wp-includes\Requests\Cookie\Jar.php)
+0071.680 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 89, C:\xampp\htdocs\wordpress\wp-includes\Requests\Cookie\Jar.php)
+0071.681 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 102, C:\xampp\htdocs\wordpress\wp-includes\Requests\Cookie\Jar.php)
+0071.681 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 111, C:\xampp\htdocs\wordpress\wp-includes\Requests\Cookie\Jar.php)
+0072.112 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 40, C:\xampp\htdocs\wordpress\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0072.113 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 51, C:\xampp\htdocs\wordpress\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0072.114 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 68, C:\xampp\htdocs\wordpress\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0072.115 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 82, C:\xampp\htdocs\wordpress\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0072.116 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 91, C:\xampp\htdocs\wordpress\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0072.148 (0) Fetched RSS news feed; result is a: SimplePie
+0072.164 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: ouwes...
+0072.247 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0072.248 (0) The backup apparently succeeded and is now complete
