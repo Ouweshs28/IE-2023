@@ -1,0 +1,2 @@
+#ignore config due to different db connections
+wp-config.php
